@@ -1,5 +1,6 @@
-# Proyecto-Alarma-Java-Español
-El software para una central de alarma. 
+# Alarma en Java (Español)
+## Simulador de software para una central de alarma.  <br>
+Consignas: 
 ● Para la creación de la alarma se debe ingresar por teclado:
 ○ Nombre.
 ○ Cantidad de sensores que se pueden agregar.
