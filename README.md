@@ -1,19 +1,16 @@
 # Alarma en Java (Español)
 ## Simulador de software para una central de alarma.  <br>
-Consignas: 
-● Para la creación de la alarma se debe ingresar por teclado:
-○ Nombre.
-○ Cantidad de sensores que se pueden agregar.
+● Para la creación de la alarma se debe ingresar por teclado:<br>
+○ Nombre.<br>
+○ Cantidad de sensores que se pueden agregar.<br>
 ○ Código de configuración (alfanumérico), el cual debe respetar el siguiente
-formato:
-■ Primera letra ‘C’.
-■ Longitud mínima 4 dígitos (con la letra ‘C’ incluida).
+formato:<br>
+■ Primera letra ‘C’.<br>
+■ Longitud mínima 4 dígitos (con la letra ‘C’ incluida).<br>
 
-El menú principal de la misma solicita el ingreso por teclado de un código. 
+Funcionamiento: El menú principal de la misma solicita el ingreso por teclado de un código. El mismo se verificará si es un código de configuración o un código de activación/desactivación.<br>
 
-Se verifica si es un código de configuración o un código de activación/desactivación.
-
-Cuando es un código de configuración, se mostrará un menú de configuración. 
+Cuando es un código de configuración, se mostrará un menú de configuración. <br>
 ○ Registrar sensor. Para ello se deberá solicitar el ingreso por teclado de:
 - ID: identificador único.
 - Nombre: texto.
